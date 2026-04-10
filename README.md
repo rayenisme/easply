@@ -1,3 +1,22 @@
+# Easply
+
+**Easy way to apply jobs.**
+
+Easply is a mobile application built with Flutter that helps users generate job application letters, manage documents, and access productivity tools in one place.
+
+---
+
+## Features
+
+- Automatic Job Application Letter Generator  
+- CV & Document Tools  
+- Productivity Tools (convert, format, etc.)  
+- User Profile Management  
+- Clean & Minimal UI Design  
+- Fast & Lightweight Flutter App  
+
+---
+
 # easply
 
 A new Flutter project.
