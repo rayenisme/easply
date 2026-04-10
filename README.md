@@ -17,10 +17,6 @@ Easply is a mobile application built with Flutter that helps users generate job 
 
 ---
 
-# easply
-
-A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
